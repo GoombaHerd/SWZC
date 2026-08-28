@@ -34,3 +34,5 @@ r.NGX.DLSS.denoisermode=2	r.NGX.DLSS.denoisermode=0
 r.CreateShadersOnLoad=1	r.CreateShadersOnLoad=0
 fov=105	fov=90
 r.FOV.DistanceScale=1.15	r.FOV.DistanceScale=1.0
+
+I have also uploaded an Engine.ini that was created by AI seperate from this one with comments strictly focused on the performance side of things.
