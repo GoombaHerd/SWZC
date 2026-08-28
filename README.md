@@ -3,6 +3,11 @@ Star Wars Zero Company
 
 Engine.ini file for changing engine settings for Star Wars Zero Company
 
+,,,
+  I have also uploaded an Engine.ini that was created by AI seperate from this one with comments strictly focused on the performance side of things.
+  I have NOT tested these settings yet. If you want to use the "AI-Generated-Engine.ini" you will need to rename it to "Engine.ini"
+,,,
+
 Performance changes in Engine.ini (Suggested)
 
 Please edit as neccessary.
@@ -34,5 +39,3 @@ r.NGX.DLSS.denoisermode=2	r.NGX.DLSS.denoisermode=0
 r.CreateShadersOnLoad=1	r.CreateShadersOnLoad=0
 fov=105	fov=90
 r.FOV.DistanceScale=1.15	r.FOV.DistanceScale=1.0
-
-I have also uploaded an Engine.ini that was created by AI seperate from this one with comments strictly focused on the performance side of things.
